@@ -1,2 +1,0 @@
-# AP_EXP-1
-ONLY FOR CU STD
